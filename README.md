@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and app development 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Email me at tanmoyroy1971@gmail.com
+- 📫 How to reach me Email me at roy.tanmoy0745@gmail.com
 
 <!---
 roy-14/roy-14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
